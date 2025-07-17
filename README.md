@@ -1,2 +1,2 @@
 # night-run
-An in-progress indie platformer about a pocket dimension connected to the moon.
+An in-progress indie platformer.
